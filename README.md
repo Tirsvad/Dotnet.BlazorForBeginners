@@ -81,6 +81,8 @@ BlazorForBeginners/
             └── BlazorForBeginners.Frontend.csproj
 ```
 
+Get this step on [link][step01-url]
+
 ### Step 2
 
 #### Next Steps
@@ -108,3 +110,5 @@ BlazorForBeginners/
 [repos-size-shield]: https://img.shields.io/github/repo-size/Tirsvad/Dotnet.BlazorForBeginners?style=for-the-badg
 
 [logo]: https://raw.githubusercontent.com/Tirsvad/Dotnet.BlazorForBeginners/master/images/logo/32x32/logo.png
+
+[step01-url]: https://github.com/Tirsvad/Dotnet.BlazorForBeginners/tree/Step01
