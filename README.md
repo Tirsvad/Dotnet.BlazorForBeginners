@@ -83,14 +83,6 @@ BlazorForBeginners/
 
 Get this step on [link][step01-url]
 
-### Step 2
-
-#### Next Steps
-
-- Open the solution in Visual Studio or your preferred IDE.
-- Start building your Blazor components in the `BlazorForBeginners.Frontend` project.
-- Refer to the [official Blazor documentation](https://learn.microsoft.com/aspnet/
-
 ## Acknowledgments
 
 <!-- MARKDOWN LINKS & IMAGES -->
